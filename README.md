@@ -1,1 +1,1 @@
-Disney+ Clone App
+Disney+ Clone App with React JS (Firebase + Styled Components + Redux)
